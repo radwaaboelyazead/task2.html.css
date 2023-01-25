@@ -1,0 +1,16 @@
+
+body{
+    background-image: url("../wallpaperflare.com_wallpaper (6).jpg");
+    background-size: cover;
+    color: rgb(248, 238, 238);
+    font-size: x-large;
+    width: 1000px;
+    margin: auto;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    line-height: 1.5;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+}
+    
+
